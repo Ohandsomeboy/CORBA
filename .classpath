@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/ejb.jar"/>
+	<classpathentry kind="lib" path="lib/iiop_support.jar"/>
+	<classpathentry kind="lib" path="lib/jms.jar"/>
+	<classpathentry kind="lib" path="lib/jta.jar"/>
+	<classpathentry kind="lib" path="lib/mail.jar"/>
+	<classpathentry kind="lib" path="lib/oc4j_orb.jar"/>
+	<classpathentry kind="lib" path="lib/oc4jclient.jar"/>
+	<classpathentry kind="lib" path="lib/ojpse.jar"/>
+	<classpathentry kind="lib" path="lib/optic.jar"/>
+	<classpathentry kind="lib" path="lib/oraclepki.jar"/>
+	<classpathentry kind="lib" path="lib/orbbase.jar"/>
+	<classpathentry kind="lib" path="lib/xmlparserv2.jar"/>
+	<classpathentry kind="lib" path="lib/jacorb-2.3.2.jbossorg-4-sources.jar"/>
+	<classpathentry kind="lib" path="lib/antlr-2.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/avalon-framework-4.1.5.jar"/>
+	<classpathentry kind="lib" path="lib/backport-util-concurrent.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/idl.jar"/>
+	<classpathentry kind="lib" path="lib/jacorb.jar"/>
+	<classpathentry kind="lib" path="lib/java_cup.jar"/>
+	<classpathentry kind="lib" path="lib/logkit-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/picocontainer-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/wrapper-3.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/xdoclet-1.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/xdoclet-ejb-module-1.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/xdoclet-jboss-module-1.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/xdoclet-jmx-module-1.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/xdoclet-mx4j-module-1.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/xdoclet-web-module-1.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/xjavadoc-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
